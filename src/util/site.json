@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "I'm a Hokie",
+    "title": "Andrew Knight's Portfolio ",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://lucid-hodgkin-d56e51.netlify.app/",
-    "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "This is the professional site of Andrew Knight's public relations work and teaching experience. Andrew is a second-year communication master's student at Virginia Tech where he teaches public speaking. ",
+    "siteUrl": "https://andrewknight.netlify.app",
+    "image": "/assets/avery-klein-c_drtsnboqa-unsplash.jpg",
+    "twitterUsername": "@andrew_mknight"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-180530149-1"
 }
