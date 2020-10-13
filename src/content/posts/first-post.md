@@ -6,7 +6,7 @@ date: 2019-07-10T00:00:00.000Z
 description: "I currently teach two sections of public speaking at Virginia Tech. "
 featuredImage: /assets/teaching.png
 ---
-![Royal Mail]( "Royal Mail from Unsplash")
+![Royal Mail](/assets/teaching.png "Royal Mail from Unsplash")
 
 ## It doesn't look so shiny to me.
 
